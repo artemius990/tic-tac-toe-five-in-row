@@ -1,0 +1,29 @@
+#game {
+	margin-left: 250px;
+	width: 405px;
+	height: 405px;
+	background: rgb(235, 235, 129);
+}
+
+.block {
+	width: 27px;
+	height: 27px;
+	float: left;
+	border: 1px solid rgb(123, 76, 185);
+	box-sizing: border-box;
+	line-height: 27px;
+	text-align: center;
+	font-size: 23px;
+	text-transform: uppercase;
+}
+
+.zag{
+	color: blueviolet;
+	margin-left:350px;
+	margin-bottom: 2px;
+}
+
+#button{
+	position: relative;
+	bottom:350px;
+}
